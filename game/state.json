@@ -1,12 +1,26 @@
 {
   "finishers": [],
-  "last_hit": null,
-  "recent": [],
+  "last_hit": {
+    "level": 1,
+    "round": 1,
+    "window": 1
+  },
+  "recent": [
+    {
+      "date": "2026-10-29",
+      "issue": 2,
+      "user": "teslacybrtrk",
+      "verb": "cracked",
+      "window": 1
+    }
+  ],
   "round": 1,
-  "throwers": {},
-  "total_throws": 0,
+  "throwers": {
+    "teslacybrtrk": 1
+  },
+  "total_throws": 1,
   "windows": [
-    0,
+    1,
     0,
     0,
     0
